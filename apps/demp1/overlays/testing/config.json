@@ -1,0 +1,1 @@
+{"appName":"demp1","userGivenName":"demp1","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps\\demp1\\overlays\\testing","srcRepoURL":"https://github.com/ARC-syn/git-ops.git","srcTargetRevision":"","labels":null}
