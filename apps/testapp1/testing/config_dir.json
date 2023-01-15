@@ -1,0 +1,1 @@
+{"appName":"testapp1","userGivenName":"testapp1","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"base/guestbook/","srcRepoURL":"https://github.com/ARC-syn/git-ops.git","srcTargetRevision":"","labels":null,"exclude":"","include":""}
