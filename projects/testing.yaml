@@ -7,7 +7,7 @@ metadata:
     argocd.argoproj.io/sync-wave: "-2"
   creationTimestamp: null
   name: testing
-  namespace: argocd
+  namespace: production
 spec:
   clusterResourceWhitelist:
   - group: '*'
