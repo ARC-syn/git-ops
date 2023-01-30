@@ -1,0 +1,20 @@
+
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: digitizer-slide-composer
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: python
+  template:
+    metadata:
+      labels:
+        app: python
+    spec:
+      containers:
+      - name: digitizer-slide-composer
+        image: sandbox/digitizer-slide-composer:latest
+        ports:
+        - containerPort: 8080
