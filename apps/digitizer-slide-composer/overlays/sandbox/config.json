@@ -1,1 +1,0 @@
-{"appName":"digitizer-slide-composer","userGivenName":"digitizer-slide-composer","destNamespace":"sandbox","destServer":"https://kubernetes.default.svc","srcPath":"apps/digitizer-slide-composer/overlays/sandbox","srcRepoURL":"https://github.com/ARC-syn/git-ops.git","srcTargetRevision":"","labels":null}
