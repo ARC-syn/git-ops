@@ -1,1 +1,0 @@
-{"appName":"second-ns","userGivenName":"second-ns","destNamespace":"testing","destServer":"https://kubernetes.default.svc","srcPath":"apps\\second-ns\\overlays\\testing","srcRepoURL":"https://github.com/ARC-syn/git-ops.git","srcTargetRevision":"","labels":null}
