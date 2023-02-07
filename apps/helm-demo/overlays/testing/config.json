@@ -1,1 +1,1 @@
-{"appName":"helm-demo","userGivenName":"helm-demo","destNamespace":"testing","destServer":"https://kubernetes.default.svc","srcPath":"apps\\helm-demo\\overlays\\testing","srcRepoURL":"https://github.com/ARC-syn/git-ops.git","srcTargetRevision":"","labels":null}
+{"appName":"helm-demo","userGivenName":"helm-demo","destNamespace":"testing","destServer":"https://kubernetes.default.svc","srcPath":"apps//helm-demo//overlays//testing","srcRepoURL":"https://github.com/ARC-syn/git-ops.git","srcTargetRevision":"","labels":null}
