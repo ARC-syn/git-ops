@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: digitizer-slide-composer
-        image: sandbox/digitizer-slide-composer:latest
+        image: docker/whalesay:1.2.3
         ports:
         - containerPort: 8080
