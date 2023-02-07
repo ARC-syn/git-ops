@@ -1,1 +1,0 @@
-{"appName":"pulsar","userGivenName":"pulsar","destNamespace":"sandbox","destServer":"https://kubernetes.default.svc","srcPath":"apps//pulsar//overlays//sandbox","srcRepoURL":"https://github.com/ARC-syn/git-ops.git","srcTargetRevision":"","labels":null}
